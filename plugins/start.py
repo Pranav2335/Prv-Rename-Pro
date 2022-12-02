@@ -11,13 +11,13 @@ async def start(client,message):
 	
 ☞ 𝐈'𝐦 𝐀 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐅𝐢𝐥𝐞 & 𝐕𝐢𝐝𝐞𝐨 𝐑𝐞𝐧𝐚𝐦𝐞 𝐁𝐨𝐭 𝐖𝐢𝐭𝐡 𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐒𝐮𝐩𝐩𝐨𝐫𝐭.
 
-☞ Send Me Any Telegram File/Video! 
+☞ 𝐒𝐞𝐧𝐝 𝐌𝐞 𝐀𝐧𝐲 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐅𝐢𝐥𝐞/𝐕𝐢𝐝𝐞𝐨! 
 
-☞ Send A Photo To Save As Permanent Thumbnail!
+☞ 𝐒𝐞𝐧𝐝 𝐀 𝐏𝐡𝐨𝐭𝐨 𝐓𝐨 𝐒𝐚𝐯𝐞 𝐀𝐬 𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥!
 
-☞ Select Your Desired/Required Option! 
+☞ 𝐒𝐞𝐥𝐞𝐜𝐭 𝐘𝐨𝐮𝐫 𝐃𝐞𝐬𝐢𝐫𝐞𝐝/𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐝 𝐎𝐩𝐭𝐢𝐨𝐧! 
 
-☞ Then Wait Till The Process Get Completed!
+☞ 𝐓𝐡𝐞𝐧 𝐖𝐚𝐢𝐭 𝐓𝐢𝐥𝐥 𝐓𝐡𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬 𝐆𝐞𝐭 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝!
 
 ☞ Maintained By : @Prv_35
 	""",reply_to_message_id = message.message_id ,  
