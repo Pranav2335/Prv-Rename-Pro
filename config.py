@@ -11,4 +11,4 @@ class Config(object):
      #Your Mongo DB Database Name
      DB_NAME = os.environ.get("DB_NAME", "Prv")
      #Your Mongo DB URL Obtained From mongodb.com
-     DB_URL = os.environ.get("DB_URL", "")
+     DB_URL = os.environ.get("DB_URL", "mongodb+srv://PR:PR@cluster0.4qxyrpw.mongodb.net/?retryWrites=true&w=majority")
