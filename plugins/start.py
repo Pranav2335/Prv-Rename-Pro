@@ -9,7 +9,7 @@ async def start(client,message):
 	await message.reply_text(text =f"""
 	Hello 👋 {message.from_user.first_name }
 	
-☞ I'm A Telegram File & Video Rename Bot With Permanent Thumbnail Support.
+☞ 𝐈'𝐦 𝐀 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐅𝐢𝐥𝐞 & 𝐕𝐢𝐝𝐞𝐨 𝐑𝐞𝐧𝐚𝐦𝐞 𝐁𝐨𝐭 𝐖𝐢𝐭𝐡 𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐒𝐮𝐩𝐩𝐨𝐫𝐭.
 
 ☞ Send Me Any Telegram File/Video! 
 
