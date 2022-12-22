@@ -4,7 +4,7 @@ then
 
   echo "Cloning main Repository"
 
-  git clone https://github.com/Pooja0033/Prv-Rename-Pro.git /Prv-Rename-Pro
+  git clone https://github.com/Pranav2335/Prv-Rename-Pro.git /Prv-Rename-Pro
 
 else
 
